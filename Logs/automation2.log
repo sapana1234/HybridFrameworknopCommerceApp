@@ -1,0 +1,340 @@
+2022-06-22 21:36:33,611 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 21:36:33,611 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 21:36:33,611 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 21:36:33,611 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 21:36:33,611 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 21:36:33,612 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 21:36:33,612 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 21:36:33,612 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 21:36:33,612 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 21:36:33,612 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 21:36:58,725 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 21:36:58,725 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 21:36:58,725 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 21:36:58,725 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 21:36:58,725 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 21:37:00,721 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 21:37:00,721 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 21:37:00,721 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 21:37:00,721 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 21:37:00,721 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 21:37:34,112 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 21:37:34,112 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 21:37:34,112 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 21:37:34,112 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 21:37:34,112 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 21:37:34,113 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 21:37:34,113 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 21:37:34,113 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 21:37:34,113 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 21:37:34,113 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 21:37:39,857 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 21:37:39,857 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 21:37:39,857 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 21:37:39,857 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 21:37:39,857 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 21:38:39,072 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 21:38:39,072 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 21:38:39,072 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 21:38:39,072 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 21:38:39,072 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 21:38:39,073 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 21:38:39,073 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 21:38:39,073 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 21:38:39,073 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 21:38:39,073 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:04:09,084 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:04:09,084 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:04:09,084 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:04:09,084 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:04:09,084 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:04:09,159 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:04:09,159 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:04:09,159 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:04:09,159 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:04:09,159 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:04:37,545 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:04:37,545 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:04:37,545 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:04:37,545 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:04:37,545 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:04:39,517 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:04:39,517 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:04:39,517 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:04:39,517 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:04:39,517 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:05:10,680 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:05:10,680 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:05:10,680 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:05:10,680 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:05:10,680 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:05:10,681 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:05:10,681 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:05:10,681 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:05:10,681 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:05:10,681 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:05:27,883 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:05:27,883 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:05:27,883 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:05:27,883 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:05:27,883 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:05:48,668 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:05:48,668 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:05:48,668 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:05:48,668 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:05:48,668 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:05:48,669 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:05:48,669 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:05:48,669 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:05:48,669 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:05:48,669 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:05:52,378 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:05:52,378 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:05:52,378 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:05:52,378 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:05:52,378 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:05:54,249 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:05:54,249 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:05:54,249 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:05:54,249 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:05:54,249 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:06:20,971 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:06:55,715 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:06:55,715 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:06:55,715 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:06:55,715 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:06:55,715 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:06:55,716 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:06:55,716 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:06:55,716 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:06:55,716 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:06:55,716 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:07:01,867 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:07:01,867 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:07:01,867 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:07:01,867 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:07:01,867 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:07:03,769 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:07:03,769 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:07:03,769 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:07:03,769 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:07:03,769 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:07:12,712 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:07:12,712 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:07:12,712 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:07:12,712 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:07:12,712 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:07:12,713 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:07:12,713 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:07:12,713 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:07:12,713 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:07:12,713 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:07:33,438 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:07:33,438 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:07:33,438 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:07:33,438 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:07:33,438 :INFO :utillities.customLogger :********* Providing customer info *********
+2022-06-22 23:07:47,110 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 23:07:47,110 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 23:07:47,110 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 23:07:47,110 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 23:07:47,110 :INFO :utillities.customLogger :********** Saving customer info ***********
+2022-06-22 23:07:47,111 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:07:47,111 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:07:47,111 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:07:47,111 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:07:47,111 :INFO :utillities.customLogger :********** Add customer validation started ***********
+2022-06-22 23:07:47,826 :INFO :utillities.customLogger :********** Add customer Test Passed ***********
+2022-06-22 23:07:47,826 :INFO :utillities.customLogger :********** Add customer Test Passed ***********
+2022-06-22 23:07:47,826 :INFO :utillities.customLogger :********** Add customer Test Passed ***********
+2022-06-22 23:07:47,826 :INFO :utillities.customLogger :********** Add customer Test Passed ***********
+2022-06-22 23:07:47,826 :INFO :utillities.customLogger :********** Add customer Test Passed ***********
+2022-06-22 23:07:47,946 :INFO :utillities.customLogger :********** End Test_003_AddCustomer test ***********
+2022-06-22 23:07:47,946 :INFO :utillities.customLogger :********** End Test_003_AddCustomer test ***********
+2022-06-22 23:07:47,946 :INFO :utillities.customLogger :********** End Test_003_AddCustomer test ***********
+2022-06-22 23:07:47,946 :INFO :utillities.customLogger :********** End Test_003_AddCustomer test ***********
+2022-06-22 23:07:47,946 :INFO :utillities.customLogger :********** End Test_003_AddCustomer test ***********
+2022-06-22 23:40:43,333 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:40:43,333 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:40:43,333 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:40:43,333 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:40:43,333 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:40:43,334 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:40:43,334 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:40:43,334 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:40:43,334 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:40:43,334 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:41:04,734 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:41:04,734 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:41:04,734 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:41:04,734 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:41:04,734 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:41:06,865 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:06,865 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:06,865 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:06,865 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:06,865 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:33,141 :INFO :utillities.customLogger :**********Login test is Passed**********
+2022-06-22 23:41:33,141 :INFO :utillities.customLogger :**********Login test is Passed**********
+2022-06-22 23:41:33,141 :INFO :utillities.customLogger :**********Login test is Passed**********
+2022-06-22 23:41:33,141 :INFO :utillities.customLogger :**********Login test is Passed**********
+2022-06-22 23:41:33,141 :INFO :utillities.customLogger :**********Login test is Passed**********
+2022-06-22 23:41:35,107 :INFO :utillities.customLogger :**********Test_002_DDT_Login**********
+2022-06-22 23:41:35,107 :INFO :utillities.customLogger :**********Test_002_DDT_Login**********
+2022-06-22 23:41:35,107 :INFO :utillities.customLogger :**********Test_002_DDT_Login**********
+2022-06-22 23:41:35,107 :INFO :utillities.customLogger :**********Test_002_DDT_Login**********
+2022-06-22 23:41:35,107 :INFO :utillities.customLogger :**********Test_002_DDT_Login**********
+2022-06-22 23:41:35,108 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:35,108 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:35,108 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:35,108 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:41:35,108 :INFO :utillities.customLogger :**********Login test is Started**********
+2022-06-22 23:42:06,564 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:06,564 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:06,564 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:06,564 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:06,564 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:14,051 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:14,051 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:14,051 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:14,051 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:42:14,051 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:43:58,769 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:43:58,769 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:43:58,769 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:43:58,769 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:43:58,769 :INFO :utillities.customLogger :*****Passed****
+2022-06-22 23:44:01,383 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:01,383 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:01,383 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:01,383 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:01,383 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :******* Starting Search Customer by Email *******
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :******* Starting Search Customer by Email *******
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :******* Starting Search Customer by Email *******
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :******* Starting Search Customer by Email *******
+2022-06-22 23:44:10,167 :INFO :utillities.customLogger :******* Starting Search Customer by Email *******
+2022-06-22 23:44:12,452 :INFO :utillities.customLogger :********* Search Customer by EmailId *********
+2022-06-22 23:44:12,452 :INFO :utillities.customLogger :********* Search Customer by EmailId *********
+2022-06-22 23:44:12,452 :INFO :utillities.customLogger :********* Search Customer by EmailId *********
+2022-06-22 23:44:12,452 :INFO :utillities.customLogger :********* Search Customer by EmailId *********
+2022-06-22 23:44:12,452 :INFO :utillities.customLogger :********* Search Customer by EmailId *********
+2022-06-22 23:44:23,039 :INFO :utillities.customLogger :********* TC_SearchCustomerByEmail_004 Finished *********
+2022-06-22 23:44:23,039 :INFO :utillities.customLogger :********* TC_SearchCustomerByEmail_004 Finished *********
+2022-06-22 23:44:23,039 :INFO :utillities.customLogger :********* TC_SearchCustomerByEmail_004 Finished *********
+2022-06-22 23:44:23,039 :INFO :utillities.customLogger :********* TC_SearchCustomerByEmail_004 Finished *********
+2022-06-22 23:44:23,039 :INFO :utillities.customLogger :********* TC_SearchCustomerByEmail_004 Finished *********
+2022-06-22 23:44:25,244 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:25,244 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:25,244 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:25,244 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:25,244 :INFO :utillities.customLogger :******* searchCustomerByEmail *******
+2022-06-22 23:44:35,834 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:35,834 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:35,834 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:35,834 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:35,834 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:44:35,835 :INFO :utillities.customLogger :******* Starting Search Customer by Name *******
+2022-06-22 23:44:35,835 :INFO :utillities.customLogger :******* Starting Search Customer by Name *******
+2022-06-22 23:44:35,835 :INFO :utillities.customLogger :******* Starting Search Customer by Name *******
+2022-06-22 23:44:35,835 :INFO :utillities.customLogger :******* Starting Search Customer by Name *******
+2022-06-22 23:44:35,835 :INFO :utillities.customLogger :******* Starting Search Customer by Name *******
+2022-06-22 23:44:38,195 :INFO :utillities.customLogger :********* Search Customer by Name *********
+2022-06-22 23:44:38,195 :INFO :utillities.customLogger :********* Search Customer by Name *********
+2022-06-22 23:44:38,195 :INFO :utillities.customLogger :********* Search Customer by Name *********
+2022-06-22 23:44:38,195 :INFO :utillities.customLogger :********* Search Customer by Name *********
+2022-06-22 23:44:38,195 :INFO :utillities.customLogger :********* Search Customer by Name *********
+2022-06-22 23:44:43,913 :INFO :utillities.customLogger :********* TC_SearchCustomerByName_005 Finished *********
+2022-06-22 23:44:43,913 :INFO :utillities.customLogger :********* TC_SearchCustomerByName_005 Finished *********
+2022-06-22 23:44:43,913 :INFO :utillities.customLogger :********* TC_SearchCustomerByName_005 Finished *********
+2022-06-22 23:44:43,913 :INFO :utillities.customLogger :********* TC_SearchCustomerByName_005 Finished *********
+2022-06-22 23:44:43,913 :INFO :utillities.customLogger :********* TC_SearchCustomerByName_005 Finished *********
+2022-06-22 23:45:25,266 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:45:25,266 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:45:25,266 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:45:25,266 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:45:25,266 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:45:25,267 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:45:25,267 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:45:25,267 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:45:25,267 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:45:25,267 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:45:29,983 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:45:29,983 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:45:29,983 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:45:29,983 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:45:29,983 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:45:31,818 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:45:31,818 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:45:31,818 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:45:31,818 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:45:31,818 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:46:18,719 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:46:18,719 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:46:18,719 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:46:18,719 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:46:18,719 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:46:18,721 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:46:18,721 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:46:18,721 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:46:18,721 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:46:18,721 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:46:32,624 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:46:32,624 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:46:32,624 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:46:32,624 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:46:32,624 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:46:32,625 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:46:32,625 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:46:32,625 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:46:32,625 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:46:32,625 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:46:58,709 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:46:58,709 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:46:58,709 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:46:58,709 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:46:58,709 :INFO :utillities.customLogger :**********Home Page Title test is Passed**********
+2022-06-22 23:47:00,619 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:47:00,619 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:47:00,619 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:47:00,619 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:47:00,619 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Login Successful *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:47:24,918 :INFO :utillities.customLogger :********* Starting Add Customer Test *********
+2022-06-22 23:48:50,443 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:48:50,443 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:48:50,443 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:48:50,443 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:48:50,443 :INFO :utillities.customLogger :**********Test_001_Login**********
+2022-06-22 23:48:50,444 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:48:50,444 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:48:50,444 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:48:50,444 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:48:50,444 :INFO :utillities.customLogger :**********Verify Home Page Title**********
+2022-06-22 23:49:07,080 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:49:07,080 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:49:07,080 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:49:07,080 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
+2022-06-22 23:49:07,080 :INFO :utillities.customLogger :********* Test_003_AddCustomer *********
